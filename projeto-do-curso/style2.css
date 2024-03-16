@@ -1,0 +1,44 @@
+body {
+  background-color: #161a30;
+  color: #ffffff;
+}
+
+h2 {
+  color: #ffffff;
+}
+
+p {
+  color: #ffffff;
+}
+
+strong {
+  color: #c6cf9b;
+}
+
+a {
+  color: #c6cf9b;
+}
+
+span {
+  color: #c6cf9b;
+}
+
+.titulos {
+  color: #c6cf9b;
+}
+
+.icones {
+  width: 70px;
+  height: 70px;
+}
+
+.img-perfil {
+  border-radius: 20px;
+  width: 500px;
+  height: 500px;
+}
+
+#header {
+  border: 1px solid #c6cf9b;
+  padding: 10px;
+}
