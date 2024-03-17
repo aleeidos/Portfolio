@@ -1,0 +1,7 @@
+https://www.figma.com/file/OAt37UReX4QI0lywJj5CrT/Portfolio---Curso-1-(Copy)?type=design&mode=design&t=5IQ30uYNKrMexMtB-0
+
+dar os créditos dos icones
+    icone do github:
+        <a href="https://www.flaticon.com/free-icons/github" title="github icons">Github icons created by Pixel perfect - Flaticon</a>
+    icone do linkedin:
+        <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
